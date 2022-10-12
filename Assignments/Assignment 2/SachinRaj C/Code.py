@@ -14,4 +14,4 @@ print ("The Humidity is", roundedHumi)
 if roundedHumi>50:
     print ("Humidity is high")
 else:
-    print ("Humidity is low")
+    print ("Humidity is low")j
