@@ -8,8 +8,6 @@ if roundedTemp>50:
     print ("temperature is high")
 else:
     print ("temperature is low")
-temperature= (random.random () ) *100
-undedTemp=round (temperature)
 print ("The Humidity is", roundedHumi)
 if roundedHumi>50:
     print ("Humidity is high")
